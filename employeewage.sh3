@@ -1,0 +1,9 @@
+#!/bin/sh -x
+isPresent=1;
+randomCheck=$((RANDOM%2));
+
+
+        echo "isPrsent 1 or Abscent";
+ else
+        echo "Employee is Abscent";
+fi
